@@ -6,4 +6,5 @@ my program
 cin >>
 cout<<
 }
+last code {};
 }
