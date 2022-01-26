@@ -6,5 +6,7 @@ my program
 cin >>
 cout<<
 }
-last code {};
+last code {}
+"Chal na gol gappe laga";:
+
 }
